@@ -1,0 +1,20 @@
+HTTrack3.47-27 launched on Sat, 22 Feb 2014 10:38:05 at http://www.audarya-award.org/
+(HTTrack http://www.audarya-award.org/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:38:07	Warning: 	Moved Temporarily for www.audarya-award.org/
+10:38:07	Warning: 	File has moved from www.audarya-award.org/ to http://www.audarya-award.org/page
+10:39:17	Error: 	"Not Found" (404) at link www.audarya-award.org/page/media/system/js/mootools.js (from www.audarya-award.org/page/)
+10:39:17	Error: 	"Not Found" (404) at link www.audarya-award.org/page/media/system/js/caption.js (from www.audarya-award.org/page/)
+10:39:25	Error: 	"Forbidden" (403) at link www.audarya-award.org/page/add-new (from www.audarya-award.org/page/)
+10:41:32	Error: 	"Not Found" (404) at link www.audarya-award.org/page/media/system/js/validate.js (from www.audarya-award.org/page/register)
+10:41:32	Error: 	"Not Found" (404) at link www.audarya-award.org/page/images/stories/key.jpg (from www.audarya-award.org/page/log-in)
+10:41:54	Error: 	"Not Found" (404) at link www.audarya-award.org/page/bg=0xf8f8f8&leftbg=0xeeeeee&lefticon=0x666666&rightbg=0xcccccc&rightbghover=0x999999&righticon=0x666666&righticonhover=0xffffff&text=0x666666&slider=0x666666&track=0xFFFFFF&border=0x666666&loader=0x9FFFB8&loop=no&playerID=1&soundFile=http://www.archive.org/download/Cartrecords_music_archive/swami-ba-paramadvaiti-mantra-y-meditacion-1-01-jaya-radha-madhava.mp3 (from www.audarya-award.org/page/help)
+10:47:12	Warning: 	Warning, link #172 empty
+
+HTTrack Website Copier/3.47-27 mirror complete in 9 minutes 7 seconds : 171 links scanned, 163 files written (11686259 bytes overall) [11805115 bytes received at 21581 bytes/sec], 1.0 requests per connection
+(6 errors, 3 warnings, 0 messages)
