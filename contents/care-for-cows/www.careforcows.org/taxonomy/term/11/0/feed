@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.careforcows.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Care for Cows International - How can I Help?</title>
+ <link>http://www.careforcows.org/taxonomy/term/11/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Make a recurring payment</title>
+ <link>http://www.careforcows.org/how_can_i_help/make_a_recurring_</link>
+ <description>&lt;!--FORM STARTS HERE. MODIFY THIS WITH CAUTION!--&gt;
+&lt;FORM name=&#039;donsub&#039; ACTION = &quot;/recurring.php&quot; method=&quot;GET&quot;&gt;
+&lt;P&gt;I would like to automatically donate $ &lt;input type=&quot;text&quot; name=&quot;AMOUNT&quot; value=&quot;&quot; size=&quot;5&quot;&gt; once a &lt;SELECT name=&quot;INTERVAL&quot; style=&quot;font-size: 11px;&quot;&gt; &lt;OPTION value=&quot;w&quot;&gt;week&lt;/OPTION&gt; &lt;OPTION value=&quot;m&quot; SELECTED&gt;month&lt;/OPTION&gt; &lt;OPTION value=&quot;y&quot;&gt;year&lt;/OPTION&gt;
+&lt;/SELECT&gt; until I cancel. &lt;INPUT NAME=&quot;name1&quot; TYPE=&quot;submit&quot; VALUE=&quot;Next&quot;&gt;
+&lt;/form&gt;
+&lt;!--FORM ENDS HERE--&gt;</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Tue, 11 Nov 2008 04:57:53 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1247 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Life Adoption Program</title>
+ <link>http://www.careforcows.org/how_can_i_help/life_adoption_pro</link>
+ <description>It costs US$300 to maintain a cow for one year. The average lifespan of a cow is twenty years, thus the cost to maintain a cow for it&#039;s entire life is US$6,000. However, when US$3,333.00 is placed in a fixed deposit, that will generate enough interest to maintain a cow, and when the cow passes on, the funds remain in our account to maintain another one. Become a LAP member by donating US$3,333 and offer perpetual go seva.</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Tue, 11 Nov 2008 21:43:11 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1249 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>General Donation</title>
+ <link>http://www.careforcows.org/how_can_i_help/general_donation</link>
+ <description>Donate as much as you like for Go-Seva.</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sun, 17 Aug 2008 07:35:06 -0400</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">662 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Feed Cows for a Day</title>
+ <link>http://www.careforcows.org/how_can_i_help/feed_cows_for_a_d</link>
+ <description>It costs one dollar a day to feed a cow. Decide how many cows you want to feed and enter that number. If you want to feed 20 cows, send $20; 50 cows - $50; or feed our whole herd $500.</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 05:10:03 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">625 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Feed Cows a feast on that Special Day</title>
+ <link>http://www.careforcows.org/how_can_i_help/feed_cows_a_feast</link>
+ <description>Feed Cows a feast on your birthday, anniversary, when a child is born, etc. It costs $2 to feed a cow a feast. If you want to feed 20 cows, send $40; 50 cows - $100; or feed our whole herd $540. The herd&#039;s regular diet is  hay, barley porridge, wheat bran, chick pea husks and fresh grass. For the feast we add jaggery and fruit (bananas/guavas/apples according to season).</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 05:07:28 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">624 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Maintain the Resident of Your Choice</title>
+ <link>http://www.careforcows.org/how_can_i_help/maintain_the_resi</link>
+ <description>&lt;span id=&quot;pricetag&quot;&gt;$30&lt;/span&gt;It costs $30 per month, $360 per year, to maintain a cow. You can send your payments either monthly, quarterly or yearly.&lt;br/&gt;
+
+</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 05:03:22 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">623 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Bull Scholarships</title>
+ <link>http://www.careforcows.org/how_can_i_help/bull_scholarships</link>
+ <description>&lt;span id=&quot;pricetag&quot;&gt;$30</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 05:02:32 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">622 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Sponsor our Monthly Medical Expenses</title>
+ <link>http://www.careforcows.org/how_can_i_help/sponsor_our_month</link>
+ <description>&lt;span id=&quot;pricetag&quot;&gt;$200</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 05:00:53 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">621 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Build an Oxcart</title>
+ <link>http://www.careforcows.org/how_can_i_help/build_an_oxcart</link>
+ <description>&lt;span id=&quot;pricetag&quot;&gt;$700</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 04:58:40 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">619 at http://www.careforcows.org</guid>
+</item>
+<item>
+ <title>Re-roof a Cowshed</title>
+ <link>http://www.careforcows.org/how_can_i_help/re_roof_a_cowshed</link>
+ <description>&lt;span id=&quot;pricetag&quot;&gt;$700
+</description>
+ <category domain="http://www.careforcows.org/how_can_i_help">How can I Help?</category>
+ <pubDate>Sat, 01 Apr 2006 04:56:24 -0500</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">618 at http://www.careforcows.org</guid>
+</item>
+</channel>
+</rss>

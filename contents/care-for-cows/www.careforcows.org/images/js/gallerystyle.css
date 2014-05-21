@@ -1,0 +1,21 @@
+#motioncontainer a img{ /*image border color*/
+border: 5px solid #C0B49C;
+margin-right: 5px;
+}
+
+#motioncontainer a:hover img{ /*image border hover color*/
+border: 5px solid maroon;
+}
+
+#motioncontainer a:hover{
+color: red; /* Dummy definition to overcome IE bug */
+}
+
+#statusdiv{
+position: absolute;
+padding: 2px;
+left: -300px;
+background-color: lightyellow;
+border: 1px solid gray;
+visibility: hidden;
+}

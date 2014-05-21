@@ -1,0 +1,168 @@
+/* START css for Index-View of Residents (also used for search-engine)..  */
+
+#residents {
+	width: 240px;
+	height: 110px;
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 40px;
+}
+#residentnail {
+	border: 2px solid #666666;
+	margin-right: 10px;
+	margin-left: 20px;
+}
+.residentfullimg {
+	text-align: left;
+}
+#residents tt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #303030;
+}
+.currentPage {
+	border: 1px solid #666666;
+	padding: 5px;
+	color: #000000;
+	font-size: inherit;
+	font-weight: bold;
+	background-color: #dad7ce;
+}
+#pagelist {
+	padding-top: 10px;
+	padding-left: 20px;
+	width: 240px;
+	height: 70px;
+	float: left;
+}
+#options {
+	width: 240px;
+	float: right;
+	padding-top: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #303030;
+}
+#options select {
+	background-color: #ECE7CA;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	padding-left: 5px;
+	border: 1px solid #000000;
+}
+#pagelist a {
+	border: 1px solid #666666;
+	padding: 5px;
+	font-size: inherit;
+	font-weight: normal;
+	background-color: #EDF1D0;
+}
+#pagelist #ignore {
+	border: 0px;
+	padding: 5px;
+	background-color: inherit;
+}
+#pagelist #ignore a:hover {
+	border: 0px;
+	padding: 5px;
+}
+#pagelist a:hover {
+	border: 1px solid #666666;
+	padding: 5px;
+	font-size: inherit;
+	background-color: #e7e4da;
+}
+#pagelist .boxheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #303030;
+	padding-left: 35px;
+	line-height: 3.3em;
+}
+#clear {
+	visibility: hidden;
+	clear: both;
+	height: 0px;
+}
+#boxes {
+	width: 521px;
+	height: 99px;
+	background: url(boxes.jpg);
+}
+
+/* END css for Index-View of Residents */
+
+
+/* START css for Full-View of Residents */
+
+.residentfullimg {
+	margin-right: 25px;
+	margin-bottom: 0.7em;
+	border: 10px solid #C0B49C;
+}
+#fullinfobar {
+	background: url(../images/residents/underline.jpg) repeat-x 1px;
+	padding-bottom: 25px;
+	font-weight: bold;
+}
+.testimonial {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.5em;
+	line-height: 1.3em;
+	color: #303030;
+	padding-top: 7px;
+	
+}
+#clear {
+	visibility: hidden;
+	clear: both;
+	height: 0px;
+}
+
+#sponsorbox {
+}
+
+#status {
+	width: 340px;
+	float: right;
+}
+.sponsor {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	background-color: #E6DED0;
+	border: 1px solid #303030;
+	padding: 5px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+#status .conts {
+	font: inherit;
+	border: 1px solid #303030;
+}
+#status .conts P {
+	background-color: #E6DED0;
+	font: inherit;
+	padding: 5px;
+	color: #000000;
+	border-bottom: 1px solid #999999; 
+}
+#status UL {
+}
+#status LI {
+	width: 90%;
+	border-bottom: 1px dashed #999999;
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 1px;
+}
+#seal {
+	width: 119px;
+	float: left;
+}
+
+/* END css for Full-View of Residents */
